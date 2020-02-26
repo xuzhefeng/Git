@@ -30,4 +30,4 @@ else:
     config_dir = ''
     config = ''
 # print("config_dir:", config_dir)
-print("我先修改")
+print("我说了算")
