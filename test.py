@@ -31,6 +31,3 @@ else:
     config = ''
 # print("config_dir:", config_dir)
 # print("config_file:", config_file)
-
-
-print("test2")
